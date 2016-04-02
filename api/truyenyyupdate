@@ -4,7 +4,7 @@
   "SHOW_FULL": true,
   "ID_UNIT_BANNER": "ca-app-pub-5140705047200790/1931365060",
   "ID_UNIT_FULL": "ca-app-pub-5140705047200790/4884831464",
-  "ADS_TIMER": "0",
+  "ADS_TIMER": "1",
   "MAIL":"corei3.team@gmail.com",
   "PREFIX_URL_LINK":"JUFiQGFIUjBjRG92TDNSeWRYbGxibmw1TG1OdmJTOXRaV1JwWVM4PQpCYQ==",
   "HOME_URL_LINK":"JUFiQGFIUjBjRG92TDNSeWRYbGxibmw1TG1OdmJTOWhjR2xoY0hBdlpuUXYKQmE=",
@@ -13,8 +13,9 @@
   "CATEGORY_LINK":"JUFiQGFIUjBjRG92TDNSeWRYbGxibmw1TG1OdmJTOWhjR2xoY0hBdmRHd3YKQmE=",
   "CATEGORY_LIST_LINK":"JUFiQGFIUjBjRG92TDNSeWRYbGxibmw1TG1OdmJTOWhjR2xoY0hBdmJHbHpkQzEwY25WNVpXNHYKQmE=",
   "SEARCH_LINK":"JUFiQGFIUjBjRG92TDNSeWRYbGxibmw1TG1OdmJTOWhjR2xoY0hBdmMyVmhjbU5vTHo5eFBRPT0KQmE=",
-  "SHOW_UPDATES":"false",
-  "DETAILS_UPDATE":"Chúc các bạn đọc truyện vui vẻ !",
-  "ABOUT":"Nothing impossible",
+  "NEED_SERCURITY":"false",
+  "SHOW_MESSAGE":"true",
+  "DETAILS_MESSAGE":"Chúc các bạn đọc truyện vui vẻ !",
+  "ABOUT":"Development by Corei3",
   "PUBLISHER": "Corei3"
 }
