@@ -13,9 +13,9 @@
   "CATEGORY_LINK":"JUFiQGFIUjBjRG92TDNSeWRYbGxibmw1TG1OdmJTOWhjR2xoY0hBdmRHd3YKQmE=",
   "CATEGORY_LIST_LINK":"JUFiQGFIUjBjRG92TDNSeWRYbGxibmw1TG1OdmJTOWhjR2xoY0hBdmJHbHpkQzEwY25WNVpXNHYKQmE=",
   "SEARCH_LINK":"JUFiQGFIUjBjRG92TDNSeWRYbGxibmw1TG1OdmJTOWhjR2xoY0hBdmMyVmhjbU5vTHo5eFBRPT0KQmE=",
-  "NEED_SERCURITY":"false",
-  "SHOW_MESSAGE":"true",
-  "DETAILS_MESSAGE":"Chúc các bạn đọc truyện vui vẻ !",
-  "ABOUT":"Development by Corei3",
+  "NEED_SERCURITY":"true",
+  "SHOW_MESSAGE":"false",
+  "DETAILS_MESSAGE":"Chúc các bạn đọc truyện vui vẻ nha !",
+  "ABOUT":"Development by Corei3 hehe",
   "PUBLISHER": "Corei3"
 }
