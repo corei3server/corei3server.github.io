@@ -1,10 +1,10 @@
 {
-  "VERSION":"20160405",
-  "SHOW_BANNER": true,
-  "SHOW_FULL": true,
+  "VERSION":"20160406",
+  "SHOW_BANNER": false,
+  "SHOW_FULL": false,
   "ID_UNIT_BANNER": "ca-app-pub-5140705047200790/3692363863",
   "ID_UNIT_FULL": "ca-app-pub-5140705047200790/2852708266",
-  "ADS_TIMER": "1",
+  "ADS_TIMER": "3",
   "MAIL":"corei3.team@gmail.com",
   "INFO_STORY_LINK":"JUFiQGFIUjBjRG92TDNkbFluUnlkWGxsYmk1amIyMHZZWEJwTXk5cGJtWnZQMmxrUFE9PQpCYQ==",
   "LIST_CHAPTTER_LINK":"JUFiQGFIUjBjRG92TDNkbFluUnlkWGxsYmk1amIyMHZZWEJwTXk5blpYUnNhWE4wWTJoaGNIUmxjajlwWkQxQlFVRW1jR1Z5Y0dGblpUMUMKUWtJbWNHRm5aVDB4CkJh",
@@ -13,7 +13,7 @@
   "BASE_LINK":"JUFiQGFIUjBjRG92TDNkbFluUnlkWGxsYmk1amIyMHZZWEJwTXk5aGJHd19jR1Z5Y0dGblpUMDVNQ1pqWVhSbFBRPT0KQmE=",
   "NEED_SERCURITY":"false",
   "SHOW_MESSAGE":"true",
-  "DETAILS_MESSAGE":"Chúc các bạn đọc truyện vui vẻ nha !",
+  "DETAILS_MESSAGE":"\nCảm ơn các bạn đã dùng ứng dụng webtruyen\nChúc các bạn đọc truyện vui vẻ nha ! \n Trong qúa trình cập nhật ảnh có thể bị lỗi, mong các bạn thông cảm.",
   "ABOUT":"\n\nDevelopment by Corei3\n\n",
   "PUBLISHER": "Corei3"
 }
