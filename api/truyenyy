@@ -1,5 +1,5 @@
 {
-  "VERSION":"20160415",
+  "VERSION":"20160416",
   "SHOW_BANNER": false,
   "SHOW_FULL": false,
   "ID_UNIT_BANNER": "ca-app-pub-5140705047200790/1931365060",
@@ -13,8 +13,8 @@
   "CATEGORY_LINK":"JUFiQGFIUjBjRG92TDNSeWRYbGxibmw1TG1OdmJTOWhjR2xoY0hBdmRHd3YKQmE=",
   "CATEGORY_LIST_LINK":"JUFiQGFIUjBjRG92TDNSeWRYbGxibmw1TG1OdmJTOWhjR2xoY0hBdmJHbHpkQzEwY25WNVpXNHYKQmE=",
   "SEARCH_LINK":"JUFiQGFIUjBjRG92TDNSeWRYbGxibmw1TG1OdmJTOWhjR2xoY0hBdmMyVmhjbU5vTHo5eFBRPT0KQmE=",
-  "NEED_SERCURITY":"false",
-  "SHOW_MESSAGE":"true",
+  "NEED_SERCURITY":"true",
+  "SHOW_MESSAGE":"false",
   "DETAILS_MESSAGE":"\nCảm ơn các bạn đã dùng ứng dụng webtruyen\nChúc các bạn đọc truyện vui vẻ nha ! \n Trong qúa trình cập nhật ảnh có thể bị lỗi, mong các bạn thông cảm.",
   "ABOUT":"\n\nDevelopment by Corei3\n\n",
   "PUBLISHER": "Corei3"
