@@ -1,5 +1,5 @@
 {
-  "VERSION":"20160602",
+  "VERSION":"20160603",
   "SHOW_BANNER": true,
   "SHOW_FULL": true,
   "ID_UNIT_BANNER": "ca-app-pub-5140705047200790/3692363863",
@@ -14,6 +14,6 @@
   "NEED_SERCURITY":"false",
   "SHOW_MESSAGE":"false",
   "DETAILS_MESSAGE":"\nCảm ơn các bạn đã dùng ứng dụng webtruyen\nChúc các bạn đọc truyện vui vẻ nha ! \n Trong qúa trình cập nhật ảnh có thể bị lỗi, mong các bạn thông cảm.",
-  "ABOUT":"\n\nDevelopment by Corei3\n\n",
+  "ABOUT":"\n\n   Hiện tại ứng dụng đã bị remove bởi GGPlay\n   Tuy nhiên các ứng dụng vẫn hoạt động bình thường\n   Bất cứ thắc mắc nào, các bạn vui lòng gửi vào email corei3.team@gmail.com\n   Chúc các bạn đọc truyện vui vẻ\n    Trân trọng! \n\n",
   "PUBLISHER": "Corei3"
 }
