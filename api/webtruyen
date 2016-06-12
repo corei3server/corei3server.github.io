@@ -1,10 +1,10 @@
 {
-  "VERSION":"20160605",
-  "SHOW_BANNER": true,
-  "SHOW_FULL": true,
+  "VERSION":"20160606",
+  "SHOW_BANNER": false,
+  "SHOW_FULL": false,
   "ID_UNIT_BANNER": "ca-app-pub-5140705047200790/3692363863",
   "ID_UNIT_FULL": "ca-app-pub-5140705047200790/2852708266",
-  "ADS_TIMER": "3",
+  "ADS_TIMER": "10",
   "MAIL":"corei3.team@gmail.com",
   "INFO_STORY_LINK":"JUFiQGFIUjBjRG92TDNkbFluUnlkWGxsYmk1amIyMHZZWEJwTXk5cGJtWnZQMmxrUFE9PQpCYQ==",
   "LIST_CHAPTTER_LINK":"JUFiQGFIUjBjRG92TDNkbFluUnlkWGxsYmk1amIyMHZZWEJwTXk5blpYUnNhWE4wWTJoaGNIUmxjajlwWkQxQlFVRW1jR1Z5Y0dGblpUMUMKUWtJbWNHRm5aVDB4CkJh",
@@ -13,7 +13,7 @@
   "BASE_LINK":"JUFiQGFIUjBjRG92TDNkbFluUnlkWGxsYmk1amIyMHZZWEJwTXk5aGJHd19jR1Z5Y0dGblpUMDVNQ1pqWVhSbFBRPT0KQmE=",
   "NEED_SERCURITY":"false",
   "SHOW_MESSAGE":"true",
-  "DETAILS_MESSAGE":"\n\n   - Hiện tại ứng dụng đã bị remove bởi GGPlay\n   - Tuy nhiên các ứng dụng vẫn hoạt động bình thường\n   - Bất cứ thắc mắc nào, các bạn vui lòng gửi vào email corei3.team@gmail.com\n   - Chúc các bạn đọc truyện vui vẻ\n    - Trân trọng! \n\n",
-  "ABOUT":"\n\n   - Hiện tại ứng dụng đã bị remove bởi GGPlay\n   - Tuy nhiên các ứng dụng vẫn hoạt động bình thường\n   - Bất cứ thắc mắc nào, các bạn vui lòng gửi vào email corei3.team@gmail.com\n   - Chúc các bạn đọc truyện vui vẻ\n    - Trân trọng! \n\n",
+  "DETAILS_MESSAGE":"\n\n   - Đã bỏ quảng cáo   - Hiện tại ứng dụng đã bị remove bởi GGPlay\n   - Tuy nhiên các ứng dụng vẫn hoạt động bình thường\n   - Bất cứ thắc mắc nào, các bạn vui lòng gửi vào email corei3.team@gmail.com\n   - Chúc các bạn đọc truyện vui vẻ\n    - Trân trọng! \n\n",
+  "ABOUT":"\n\n   - Đã bỏ quảng cáo   - Hiện tại ứng dụng đã bị remove bởi GGPlay\n   - Tuy nhiên các ứng dụng vẫn hoạt động bình thường\n   - Bất cứ thắc mắc nào, các bạn vui lòng gửi vào email corei3.team@gmail.com\n   - Chúc các bạn đọc truyện vui vẻ\n    - Trân trọng! \n\n",
   "PUBLISHER": "Corei3"
 }
