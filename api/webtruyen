@@ -1,5 +1,5 @@
 {
-  "VERSION":"20160704",
+  "VERSION":"20160705",
   "SHOW_BANNER": false,
   "SHOW_FULL": false,
   "ID_UNIT_BANNER": "ca-app-pub-5140705047200790/3861544668",
@@ -11,8 +11,8 @@
   "CHAPTER_DATA_LINK":"JUFiQGFIUjBjRG92TDNkbFluUnlkWGxsYmk1amIyMHZZWEJwTXk5amFHRndkR1Z5UDJsa1BRPT0KQmE=",
   "SEARCH_LINK":"JUFiQGFIUjBjRG92TDNkbFluUnlkWGxsYmk1amIyMHZZWEJwTXk5aGJHd19jR1Z5Y0dGblpUMDFNQ1p3WVdkbFBURW1ZMkYwWlQxelpXRnkKWTJnbWMyVmhjbU5vVTNSeVBRPT0KQmE=",
   "BASE_LINK":"JUFiQGFIUjBjRG92TDNkbFluUnlkWGxsYmk1amIyMHZZWEJwTXk5aGJHd19jR1Z5Y0dGblpUMDVNQ1pqWVhSbFBRPT0KQmE=",
-  "NEED_SERCURITY":"true",
-  "SHOW_MESSAGE":"true",
+  "NEED_SERCURITY":"false",
+  "SHOW_MESSAGE":"false",
   "DETAILS_MESSAGE":"\n\n   - Chúc các bạn đọc truyện vui vẻ\n   - Trân trọng! \n\n",
   "ABOUT":"\n\n   - Chúc các bạn đọc truyện vui vẻ\n   - Trân trọng! \n\n",
   "PUBLISHER": "Lq Future"
